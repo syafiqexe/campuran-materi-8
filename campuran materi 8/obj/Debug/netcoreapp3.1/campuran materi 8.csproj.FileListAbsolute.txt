@@ -1,0 +1,11 @@
+D:\GH\tugas 8\campuran materi 8\bin\Debug\netcoreapp3.1\campuran materi 8.exe
+D:\GH\tugas 8\campuran materi 8\bin\Debug\netcoreapp3.1\campuran materi 8.deps.json
+D:\GH\tugas 8\campuran materi 8\bin\Debug\netcoreapp3.1\campuran materi 8.runtimeconfig.json
+D:\GH\tugas 8\campuran materi 8\bin\Debug\netcoreapp3.1\campuran materi 8.runtimeconfig.dev.json
+D:\GH\tugas 8\campuran materi 8\bin\Debug\netcoreapp3.1\campuran materi 8.dll
+D:\GH\tugas 8\campuran materi 8\bin\Debug\netcoreapp3.1\campuran materi 8.pdb
+D:\GH\tugas 8\campuran materi 8\obj\Debug\netcoreapp3.1\campuran materi 8.csprojAssemblyReference.cache
+D:\GH\tugas 8\campuran materi 8\obj\Debug\netcoreapp3.1\campuran materi 8.AssemblyInfoInputs.cache
+D:\GH\tugas 8\campuran materi 8\obj\Debug\netcoreapp3.1\campuran materi 8.AssemblyInfo.cs
+D:\GH\tugas 8\campuran materi 8\obj\Debug\netcoreapp3.1\campuran materi 8.dll
+D:\GH\tugas 8\campuran materi 8\obj\Debug\netcoreapp3.1\campuran materi 8.pdb

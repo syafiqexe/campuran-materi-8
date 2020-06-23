@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "campuran materi 8/1.0.0": {
+        "runtime": {
+          "campuran materi 8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "campuran materi 8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
